@@ -1,0 +1,18 @@
+{
+	"name": "backend",
+	"version": "1.0.0",
+	"description": "for the assignment - Take Home project ",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"author": "Leslie Okyere",
+	"license": "ISC",
+	"devDependencies": {
+		"express": "^4.18.2",
+		"nodemon": "^2.0.20"
+	},
+	"dependencies": {
+		"cors": "^2.8.5"
+	}
+}
